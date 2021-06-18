@@ -14,19 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## About me 😄 
+### About me 😄 
 - 🔭 Fronted developer,  I’m currently working on gmfe, mainly focus on
   -[vurepress-fe-note](https://github.com/LazyTraveller/vuepress-fe-note)、
   -[rry_rainbow](https://github.com/LazyTraveller/rry_rainbow)
 - 🌱 I’m currently learning, write a ui Library
 
-## Most Technology stack 🤔
+### Most Technology stack 🤔
 - TypeScript
 - React
 - Node
 - Taro
 
-## How to Contact me 📫 
+### How to Contact me 📫 
 - Wechat heweizhi0330
 - Email heweizhi033@163.com
 
