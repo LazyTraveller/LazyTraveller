@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ## About me 😄 
 - 🔭 Fronted developer,  I’m currently working on gmfe, mainly focus on
-  -[vurepress](https://github.com/LazyTraveller/vuepress-fe-note)
+  -[vurepress-fe-note](https://github.com/LazyTraveller/vuepress-fe-note)
   -[rry_rainbow](https://github.com/LazyTraveller/rry_rainbow)
 - 🌱 I’m currently learning, write a ui Library
 
