@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   -[vurepress-fe-note](https://github.com/LazyTraveller/vuepress-fe-note)、
   -[rry_rainbow](https://github.com/LazyTraveller/rry_rainbow)
 - 🌱 I’m currently learning, write a ui Library
-- 📖 Some [vuepress-fe-note](https://lazytraveller.github.io/vuepress-fe-note)
+- 📖 Some [fe-knowledge-system](https://lazytraveller.github.io/vuepress-fe-note)
 
 ### Most Technology stack 🤔
 - TypeScript
