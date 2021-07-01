@@ -31,5 +31,5 @@ Here are some ideas to get you started:
 - Wechat heweizhi0330
 - Email heweizhi033@163.com
 
-### Gitlab Work Record
+<!-- ### Gitlab Work Record -->
 <!-- ![gitlab work record](https://files.catbox.moe/idpxjz.png) -->
