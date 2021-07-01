@@ -32,4 +32,4 @@ Here are some ideas to get you started:
 - Email heweizhi033@163.com
 
 ### Gitlab Work Record
-![gitlab work record](https://files.catbox.moe/idpxjz.png)
+<!-- ![gitlab work record](https://files.catbox.moe/idpxjz.png) -->
