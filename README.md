@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### About me 😄 
-- 🔭 Fronted developer,  I’m currently working on gmfe, mainly focus on erp system and miniprogram, 
-  and other time i am building myself repository such as 
+- 🔭 Fronted developer,  I’m currently working on gmfe, mainly focus on erp system and miniprogram
+- Other time i am building myself repository such as 
   [vurepress-fe-note](https://github.com/LazyTraveller/vuepress-fe-note)、
   [rry_rainbow](https://github.com/LazyTraveller/rry_rainbow)
-- 🌱 I’m currently learning, write a ui Library
-- 📖 and write some note [fe-knowledge-system](https://lazytraveller.github.io/vuepress-fe-note)
+- 🌱 I’m currently learning write a ui Library
+- 📖 Writing some note [fe-knowledge-system](https://lazytraveller.github.io/vuepress-fe-note)
 
 ### Most Technology stack 🤔
 - JavaScript
