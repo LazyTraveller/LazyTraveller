@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### About me 😄 
-- 🔭 I, Heweizhi, Male，Fronted developer, I am currently working for the gmfe in Shenzhen, mainly focus on erp system and miniprogram.
+- 🔭 I, heweizhi, male，fronted developer, I am currently working for the gmfe in Shenzhen, mainly focus on erp system and miniprogram.
 - Other time i am building myself repository such as 
   [vurepress-fe-note](https://github.com/LazyTraveller/vuepress-fe-note)、
   [rry_rainbow](https://github.com/LazyTraveller/rry_rainbow)
