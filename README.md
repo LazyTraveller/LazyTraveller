@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 - 📖 Some [fe-knowledge-system](https://lazytraveller.github.io/vuepress-fe-note)
 
 ### Most Technology stack 🤔
+- JavaScript
 - TypeScript
 - React
 - Node
