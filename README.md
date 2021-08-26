@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### About me 😄 
-- 🔭 I, heweizhi, male，fronted developer, I am currently working for the gmfe in Shenzhen, mainly focus on erp system and miniprogram.
+- 🔭 fronted developer, I am currently working for the gmfe in Shenzhen, mainly focus on erp system and miniprogram.
 - Other time i am building myself repository such as 
   [vurepress-fe-note](https://github.com/LazyTraveller/vuepress-fe-note)、
   [rry_rainbow](https://github.com/LazyTraveller/rry_rainbow)
-- 🌱 I’m currently learning write a ui Library and how to build a project by webpack or rollup
+- 🌱 I’m currently learning write a ui Library and how to build a project by webpack 
 - 📖 Writing some note [fe-knowledge-system](https://lazytraveller.github.io/vuepress-fe-note)
 
 ### Most Technology stack 🤔
