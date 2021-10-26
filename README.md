@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - JavaScript
 - TypeScript
 - React
-- Node
+- React-Native
 - Taro
 
 ### How to Contact me 📫 
