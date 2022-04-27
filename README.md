@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - TypeScript
 - React
 - Taro
-- Node
+
 ### How to Contact me 📫 
 - Wechat heweizhi0330
 - Email heweizhi033@163.com
