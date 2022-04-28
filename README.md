@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### About me 😄 
-- 🔭 fronted developer, I am currently working for the [gmfe](https://github.com/gmfe) in Shenzhen, mainly focus on SaaS system and miniprogram.
-- 📖 Writing some note [fe-knowledge-system](https://lazytraveller.github.io/vuepress-fe-note) and building myself repository such as  [rry_rainbow](https://github.com/LazyTraveller/rry_rainbow).
+- 🔭 Fronted developer, I am currently working for the [gmfe](https://github.com/gmfe) in Shenzhen, mainly focus on SaaS system and miniprogram.
+- 📖 Writing a note [fe-knowledge-system](https://lazytraveller.github.io/vuepress-fe-note) and building myself repository such as  [rry_rainbow](https://github.com/LazyTraveller/rry_rainbow).
 
 ### Most Technology stack 🤔
 - JavaScript
 - TypeScript
-- React
+- React生态
 - Taro
 
 ### How to Contact me 📫 
