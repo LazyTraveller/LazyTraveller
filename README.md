@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ### About me 😄 
 - 🔭 Fronted developer, I am currently working for the [gmfe](https://github.com/gmfe) in Shenzhen, mainly focus on SaaS system and miniprogram.
-- 📖 Writing a note [fe-knowledge-system](https://lazytraveller.github.io/vuepress-fe-note) and building myself repository such as  [rry_rainbow](https://github.com/LazyTraveller/rry_rainbow).
+- 📖 Writing a note [fe-learing-notes](https://lazytraveller.github.io/vuepress-fe-note) and building myself repository such as  [rry_rainbow](https://github.com/LazyTraveller/rry_rainbow).
 
 ### Most Technology stack 🤔
 - JavaScript
