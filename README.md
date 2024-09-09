@@ -15,14 +15,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### About me 😄 
-- 🔭 Fronted developer, I am currently working for the [gmfe](https://github.com/gmfe) in Shenzhen, mainly focus on SaaS system and miniprogram.
+- 🔭 Fronted developer, I am currently working for the [gmfe](https://github.com/gmfe) in Shenzhen.
 - 📖 Writing a note [fe-learing-notes](https://lazytraveller.github.io/vuepress-fe-note) and building myself repository such as  [rry_rainbow](https://github.com/LazyTraveller/rry_rainbow).
 
 ### Most Technology stack 🤔
 - JavaScript
 - TypeScript
 - React生态
-- Taro
+- Taro/小程序
+- React Native
+- Flutter
+- Svelte
+- Electron
+- Webpack
+- Vite
 
 ### How to Contact me 📫 
 - Wechat heweizhi0330
