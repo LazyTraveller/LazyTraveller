@@ -29,6 +29,8 @@ Here are some ideas to get you started:
 - Electron
 - Webpack
 - Vite
+- BLE(Bluetooth Low Energy)
+- WiFi
 
 ### How to Contact me 📫 
 - Wechat heweizhi0330
