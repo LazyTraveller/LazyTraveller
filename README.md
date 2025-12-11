@@ -29,8 +29,10 @@ Here are some ideas to get you started:
 - Electron
 - Webpack
 - Vite
+- tailwindcss
 - BLE(Bluetooth Low Energy)
-- WiFi
+- WiFi Transfer
+- WXT Web Extension
 
 ### How to Contact me 📫 
 - Wechat heweizhi0330
