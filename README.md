@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### About me 😄 
-- 🔭 Fronted developer, I am currently working for the [gmfe](https://github.com/gmfe) in Shenzhen.
+- 🔭 Fronted developer, I am currently working for the Opal in Shenzhen.
+- I used to work at [gmfe](https://github.com/gmfe).
 - 📖 Writing a note [fe-learing-notes](https://lazytraveller.github.io/vuepress-fe-note) and building myself repository such as  [rry_rainbow](https://github.com/LazyTraveller/rry_rainbow).
 
 ### Most Technology stack 🤔
