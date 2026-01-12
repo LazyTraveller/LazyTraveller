@@ -1,4 +1,4 @@
-## Hi 👋 I'm Weizhi (贺伟志)
+## Hi 👋 I'm Jerry He
 
 Passionate **Frontend Engineer** turned **AI Application Developer** — building delightful user experiences and intelligent cross-platform applications.
 
